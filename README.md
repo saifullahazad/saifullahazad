@@ -2,7 +2,7 @@
 
 ## Expert Software Engineer | AI Agent & LLM | Web & Mobile App Developer
 
-With over **20+ years** of software engineering expertise, I specialize in delivering enterprise-grade solutions that drive business success. My experience spans web and mobile development, system architecture, and cutting-edge AI technologies, including AI agent building and LLM-based applications. I’ve worked across industries like telecommunications, biometrics, capital markets, and ERP systems, creating robust, scalable software for global clients.
+With over **10+ years** of software engineering expertise, I specialize in delivering enterprise-grade solutions that drive business success. My experience spans web and mobile development, system architecture, and cutting-edge AI technologies, including AI agent building and LLM-based applications. I’ve worked across industries like telecommunications, biometrics, capital markets, and ERP systems, creating robust, scalable software for global clients.
 
 ---
 
